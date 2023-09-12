@@ -70,3 +70,4 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export PATH="$PATH:/mnt/c/Users/Beni Kalitanyi/AppData/Local/Programs/Microsoft VS Code/bin"
